@@ -15,26 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Tanishq Bhatnagar 👋
 
-![Profile Banner](https://your-image-url.com)  
 
 ## 🚀 About Me
-
-I'm a passionate **[Your Profession/Interest]** specializing in **[Your Key Skills]**. I love contributing to open-source projects, building innovative solutions, and sharing knowledge with the community.
-
-- 🔭 I’m currently working on **[Your Current Project]**
-- 🌱 I’m learning **[New Technology or Skill]**
-- 💬 Ask me about **[Your Expertise Areas]**
-- 📫 How to reach me: **[Your Contact Info]**
-- ⚡ Fun fact: **[Something Interesting About You]**
+I’m a beginner developer with a strong commitment to learning and growing in the world of coding. I may be early in my journey, but my curiosity and enthusiasm drive me to keep pushing my skills forward every day.
 
 ## 🛠️ Tech Stack
 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
 
 ## 📌 Featured Projects
 
@@ -46,16 +41,13 @@ I'm a passionate **[Your Profession/Interest]** specializing in **[Your Key Skil
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanned366&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanned366&layout=compact&theme=radical)
 
 ## 🌎 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanishqbhattnagar)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://your-portfolio.com)
 
 ---
-
-⭐️ **Feel free to fork this README and customize it!**
