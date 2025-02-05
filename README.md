@@ -1,20 +1,3 @@
-## Hi there 👋
-
-<!--
-**tanned366/tanned366** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hi there, I'm Tanishq Bhatnagar 👋
 
 
@@ -31,13 +14,6 @@ I’m a beginner developer with a strong commitment to learning and growing in t
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 
-## 📌 Featured Projects
-
-### 🚀 [Project Name](https://github.com/your-repo)
-**Description:** Brief overview of the project, its purpose, and what it does.
-
-### 🌟 [Another Project](https://github.com/your-repo)
-**Description:** Another exciting project you've worked on!
 
 ## 📊 GitHub Stats
 
@@ -48,6 +24,9 @@ I’m a beginner developer with a strong commitment to learning and growing in t
 ## 🌎 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanishqbhattnagar)
+
+- 🔗 [Linktree](https://linktr.ee/TanishqBhatnagar)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://your-portfolio.com)
 
 ---
