@@ -25,6 +25,9 @@ I’m a beginner developer with a strong commitment to learning and growing in t
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanishqbhattnagar)
 
+![Email](https://img.shields.io/badge/Email-tanishqbhatnagar366.com-orange)
+
+
 ![Linktree](https://img.shields.io/badge/Linktree-https%3A%2F%2Flinktr.ee%2FTanishqBhatnagar-blue)
 
 ---
