@@ -1,9 +1,6 @@
-# Hi there, I'm Tanishq Bhatnagar 👋
+## 🚀 About Me
 
-
-## 🚀 About Me:
-
--👋 Hi, I’m @tanned366  
+-👋 Hi, I’m Tanishq Bhatnagar  
 -👀 I’m interested in coding and development  
 -🌱 I’m learning C++, Python, and web development  
 
