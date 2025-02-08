@@ -1,8 +1,12 @@
 # Hi there, I'm Tanishq Bhatnagar 👋
 
 
-## 🚀 About Me
-I’m a beginner developer with a strong commitment to learning and growing in the world of coding. I may be early in my journey, but my curiosity and enthusiasm drive me to keep pushing my skills forward every day.
+## 🚀 About Me:
+
+👋 Hi, I’m @tanned366
+👀 I’m interested in coding and development
+🌱 I’m learning C++, Python, and web development
+
 
 ## 🛠️ Tech Stack
 
@@ -17,13 +21,9 @@ I’m a beginner developer with a strong commitment to learning and growing in t
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanned366&show_icons=true&theme=radical)
-
 ![](https://github-readme-stats.vercel.app/api?username=tanned366&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tanned366&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanned366&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanned366&layout=compact&theme=radical)
 
 ## 🌎 Connect with Me
 
