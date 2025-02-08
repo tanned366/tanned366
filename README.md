@@ -3,9 +3,9 @@
 
 ## 🚀 About Me:
 
-👋 Hi, I’m @tanned366
-👀 I’m interested in coding and development
-🌱 I’m learning C++, Python, and web development
+-👋 Hi, I’m @tanned366  
+-👀 I’m interested in coding and development  
+-🌱 I’m learning C++, Python, and web development  
 
 
 ## 🛠️ Tech Stack
