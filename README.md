@@ -20,7 +20,7 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=tanned366&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>  
+![](https://github-readme-stats.vercel.app/api?username=tanned366&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=0)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tanned366&theme=tokyonight&hide_border=false)<br/>  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanned366&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
