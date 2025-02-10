@@ -10,7 +10,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/tanned366/Python_adv/blob/main/basics/your_notebook.ipynb)  
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)]
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
